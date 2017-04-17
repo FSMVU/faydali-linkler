@@ -6,10 +6,11 @@
 * 	[blm.fsmu.edu.tr](http://blm.fsmu.edu.tr)
 
 ###	Öğrenci kulupleri:
-*	FSM - Internet of things 
+*	FSM - Internet of things
 * 	[Yeni nesil arge](http://yeninesilarge.com)
 * 	Kulüpler için pull request gönderebilir siniz.
 
-#### Öğrenci repoları: 
+#### Öğrenci repoları:
 *	[erolkaftanoglu](http://github.com/erolkaftanoglu)
+* [veyselburakkeles](https://github.com/burakeless)
 * 	Reponuzun burada yer alması için PR açabilir siniz.
