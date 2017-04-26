@@ -10,7 +10,6 @@
 * 	[Yeni nesil arge](http://yeninesilarge.com)
 * 	Kulüpler için pull request gönderebilir siniz.
 
-#### Öğrenci repoları:
-*	[erolkaftanoglu](http://github.com/erolkaftanoglu)
+#### Öğrenci repoları:	
 * [veyselburakkeles](https://github.com/burakeless)
 * 	Reponuzun burada yer alması için PR açabilir siniz.
