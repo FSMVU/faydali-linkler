@@ -13,5 +13,6 @@
 #### Öğrenci repoları:
 *    [alialperenaslan] (http://github.com/alperen317)
 *	[erolkaftanoglu](http://github.com/erolkaftanoglu)
+*	[salimsah](https://github.com/salimsah)
 * [veyselburakkeles](https://github.com/burakeless)
 * 	Reponuzun burada yer alması için PR açabilir siniz.
